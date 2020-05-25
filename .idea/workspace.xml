@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42bbc797-17e1-49e5-894c-18b2e3f0aedc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cGjau2NsLUMx4a75dBnPtbCyS2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunManager" selected="JUnit.HelloWorldRestAssured">
+    <configuration name="HelloWorldRestAssured" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="up.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="up" />
+      <option name="MAIN_CLASS_NAME" value="up.HelloWorldRestAssured" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldRestAssured.test_Md5CheckSumForTest_ShouldBe098f6bcd4621d373cade4e832627b4f6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="up.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="up" />
+      <option name="MAIN_CLASS_NAME" value="up.HelloWorldRestAssured" />
+      <option name="METHOD_NAME" value="test_Md5CheckSumForTest_ShouldBe098f6bcd4621d373cade4e832627b4f6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldRestAssured.test_NumberOfCircuitsFor2017Season_ShouldBe20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="up.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="up" />
+      <option name="MAIN_CLASS_NAME" value="up.HelloWorldRestAssured" />
+      <option name="METHOD_NAME" value="test_NumberOfCircuitsFor2017Season_ShouldBe20" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldRestAssured.test_NumberOfCircuits_ShouldBe20_Parameterized" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="up.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="up" />
+      <option name="MAIN_CLASS_NAME" value="up.HelloWorldRestAssured" />
+      <option name="METHOD_NAME" value="test_NumberOfCircuits_ShouldBe20_Parameterized" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldRestAssured.test_ResponseHeaderData_ShouldBeCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="up.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="up" />
+      <option name="MAIN_CLASS_NAME" value="up.HelloWorldRestAssured" />
+      <option name="METHOD_NAME" value="test_ResponseHeaderData_ShouldBeCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HelloWorldRestAssured" />
+        <item itemvalue="JUnit.HelloWorldRestAssured.test_ResponseHeaderData_ShouldBeCorrect" />
+        <item itemvalue="JUnit.HelloWorldRestAssured.test_Md5CheckSumForTest_ShouldBe098f6bcd4621d373cade4e832627b4f6" />
+        <item itemvalue="JUnit.HelloWorldRestAssured.test_NumberOfCircuitsFor2017Season_ShouldBe20" />
+        <item itemvalue="JUnit.HelloWorldRestAssured.test_NumberOfCircuits_ShouldBe20_Parameterized" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42bbc797-17e1-49e5-894c-18b2e3f0aedc" name="Default Changelist" comment="" />
+      <created>1590161890214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590161890214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="138" width="642" height="829" key="#Unittests_in_test" timestamp="1590167862178">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="634" y="138" width="642" height="829" key="#Unittests_in_test/0.27.1920.1053@0.27.1920.1053" timestamp="1590167862178" />
+    <state x="687" y="338" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590167860092">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="687" y="338" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1590167860092" />
+    <state x="661" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590164357252">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="661" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1590164357252" />
+    <state width="1874" height="245" key="GridCell.Tab.0.bottom" timestamp="1590393637734">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="245" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590393637734" />
+    <state width="1874" height="245" key="GridCell.Tab.0.center" timestamp="1590393637734">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="245" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590393637734" />
+    <state width="1874" height="245" key="GridCell.Tab.0.left" timestamp="1590393637734">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="245" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590393637734" />
+    <state width="1874" height="245" key="GridCell.Tab.0.right" timestamp="1590393637734">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="245" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590393637734" />
+    <state x="493" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1590165992979">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="493" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1590165992979" />
+    <state x="286" y="187" width="1185" height="730" key="SettingsEditor" timestamp="1590165905760">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="286" y="187" width="1185" height="730" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1590165905760" />
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1590326720073">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1590326720073" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rest_assured_testing$HelloWorldRestAssured.ic" NAME="HelloWorldRestAssured Coverage Results" MODIFIED="1590167921006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>up.*</FILTER>
+    </SUITE>
+  </component>
+</project>
