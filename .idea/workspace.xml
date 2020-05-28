@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42bbc797-17e1-49e5-894c-18b2e3f0aedc" name="Default Changelist" comment="" />
+    <list default="true" id="42bbc797-17e1-49e5-894c-18b2e3f0aedc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/up/HelloWorldRestAssured.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/up/HelloWorldRestAssured.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/up/HelloWorldRestAssured.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/up/HelloWorldRestAssured.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -28,6 +38,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1cGjau2NsLUMx4a75dBnPtbCyS2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,12 +46,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/repos/eudenp-tutorials/spring-rest-testing" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager" selected="JUnit.HelloWorldRestAssured">
+    <configuration name="All in rest-assured-testing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorldRestAssured" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="rest-assured-testing" />
       <extension name="coverage">
@@ -72,38 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorldRestAssured.test_NumberOfCircuitsFor2017Season_ShouldBe20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="rest-assured-testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="up.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="up" />
-      <option name="MAIN_CLASS_NAME" value="up.HelloWorldRestAssured" />
-      <option name="METHOD_NAME" value="test_NumberOfCircuitsFor2017Season_ShouldBe20" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloWorldRestAssured.test_NumberOfCircuits_ShouldBe20_Parameterized" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="rest-assured-testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="up.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="up" />
-      <option name="MAIN_CLASS_NAME" value="up.HelloWorldRestAssured" />
-      <option name="METHOD_NAME" value="test_NumberOfCircuits_ShouldBe20_Parameterized" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HelloWorldRestAssured.test_ResponseHeaderData_ShouldBeCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="rest-assured-testing" />
       <extension name="coverage">
@@ -120,13 +109,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Unittests in test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-testing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.HelloWorldRestAssured" />
+        <item itemvalue="JUnit.All in rest-assured-testing" />
+        <item itemvalue="Python tests.Unittests in test" />
         <item itemvalue="JUnit.HelloWorldRestAssured.test_ResponseHeaderData_ShouldBeCorrect" />
         <item itemvalue="JUnit.HelloWorldRestAssured.test_Md5CheckSumForTest_ShouldBe098f6bcd4621d373cade4e832627b4f6" />
-        <item itemvalue="JUnit.HelloWorldRestAssured.test_NumberOfCircuitsFor2017Season_ShouldBe20" />
-        <item itemvalue="JUnit.HelloWorldRestAssured.test_NumberOfCircuits_ShouldBe20_Parameterized" />
       </list>
     </recent_temporary>
   </component>
@@ -144,46 +147,73 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="634" y="138" width="642" height="829" key="#Unittests_in_test" timestamp="1590167862178">
+    <state x="634" y="138" width="642" height="829" key="#Unittests_in_test" timestamp="1590596396005">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="634" y="138" width="642" height="829" key="#Unittests_in_test/0.27.1920.1053@0.27.1920.1053" timestamp="1590167862178" />
+    <state x="634" y="138" width="642" height="829" key="#Unittests_in_test/0.27.1920.1053@0.27.1920.1053" timestamp="1590596396005" />
     <state x="687" y="338" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590167860092">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="687" y="338" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1590167860092" />
-    <state x="661" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590164357252">
+    <state x="661" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590565945527">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="661" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1590164357252" />
-    <state width="1874" height="245" key="GridCell.Tab.0.bottom" timestamp="1590393637734">
+    <state x="661" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1590565945527" />
+    <state width="1874" height="344" key="GridCell.Tab.0.bottom" timestamp="1590613136681">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="245" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590393637734" />
-    <state width="1874" height="245" key="GridCell.Tab.0.center" timestamp="1590393637734">
+    <state width="1874" height="344" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590613136681" />
+    <state width="1874" height="344" key="GridCell.Tab.0.center" timestamp="1590613136681">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="245" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590393637734" />
-    <state width="1874" height="245" key="GridCell.Tab.0.left" timestamp="1590393637734">
+    <state width="1874" height="344" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590613136681" />
+    <state width="1874" height="344" key="GridCell.Tab.0.left" timestamp="1590613136681">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="245" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590393637734" />
-    <state width="1874" height="245" key="GridCell.Tab.0.right" timestamp="1590393637734">
+    <state width="1874" height="344" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590613136681" />
+    <state width="1874" height="344" key="GridCell.Tab.0.right" timestamp="1590613136681">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="245" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590393637734" />
-    <state x="493" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1590165992979">
+    <state width="1874" height="344" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590613136681" />
+    <state width="1874" height="344" key="GridCell.Tab.1.bottom" timestamp="1590613136682">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="493" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1590165992979" />
-    <state x="286" y="187" width="1185" height="730" key="SettingsEditor" timestamp="1590165905760">
+    <state width="1874" height="344" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590613136682" />
+    <state width="1874" height="344" key="GridCell.Tab.1.center" timestamp="1590613136682">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="286" y="187" width="1185" height="730" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1590165905760" />
-    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1590326720073">
+    <state width="1874" height="344" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590613136682" />
+    <state width="1874" height="344" key="GridCell.Tab.1.left" timestamp="1590613136682">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1590326720073" />
+    <state width="1874" height="344" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590613136682" />
+    <state width="1874" height="344" key="GridCell.Tab.1.right" timestamp="1590613136682">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590613136682" />
+    <state x="493" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1590419241395">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="493" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1590419241395" />
+    <state x="286" y="187" width="1185" height="730" key="SettingsEditor" timestamp="1590499911873">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="286" y="187" width="1185" height="730" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1590499911873" />
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1590565879303">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1590565879303" />
+    <state x="269" y="255" width="1372" height="594" key="new project wizard" timestamp="1590478790653">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="269" y="255" width="1372" height="594" key="new project wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1590478790653" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="equalTo(expectedMd5CheckSum)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/rest_assured_testing$HelloWorldRestAssured.ic" NAME="HelloWorldRestAssured Coverage Results" MODIFIED="1590167921006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

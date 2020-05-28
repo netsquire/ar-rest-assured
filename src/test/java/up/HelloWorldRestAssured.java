@@ -2,11 +2,16 @@ package up;
 
 import com.jayway.restassured.http.ContentType;
 import org.junit.Test;
-import static org.hamcrest.Matchers.*;
+import org.junit.jupiter.api.DisplayName;
+
 import static com.jayway.restassured.RestAssured.given;
+import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
 
+@DisplayName("A special test case")
 public class HelloWorldRestAssured {
+
+    String workingDir = System.getProperty("user.dir");
 
     @Test
     public void makeSureThatGoogleIsUp() {
@@ -16,6 +21,7 @@ public class HelloWorldRestAssured {
     }
 
     @Test
+    @DisplayName("Custom test name containing spaces")
     public void test_NumberOfCircuitsFor2017Season_ShouldBe20() {
         given().
                 when().
@@ -40,6 +46,7 @@ public class HelloWorldRestAssured {
     }
 
     @Test
+    @DisplayName("😱")
     public void test_Md5CheckSumForTest_ShouldBe098f6bcd4621d373cade4e832627b4f6() {
 
         String originalText = "test";
@@ -61,11 +68,12 @@ public class HelloWorldRestAssured {
         int numberOfRaces = 20;
 
         given().
-                pathParam("raceSeason",season).
+                pathParam("raceSeason", season).
                 when().
                 get("http://ergast.com/api/f1/{raceSeason}/circuits.json").
                 then().
                 assertThat().
                 body("MRData.CircuitTable.Circuits.circuitId", hasSize(numberOfRaces));
     }
+
 }
